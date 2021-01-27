@@ -2,6 +2,8 @@
 
 In this project I will be preparing a product strategy and pitch product vision.
 
+Involves product identification,market research,competition analysis,roadmap creation to product pitch.
+
 Project Scenario(madeup):
 
 LinkedIn is trying to expand its job market offerings by creating an app that will recommend the best jobs to recent college graduates based on their skills and preferences.
